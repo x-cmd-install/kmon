@@ -5,13 +5,13 @@ about:
   head: 4611a8a
   archived: false
   latestVersion: "v1.7.1"
-  collectedAt: 2026-09-07T05:35:13Z
+  collectedAt: 2026-09-07T18:53:15Z
 timeline:
   created: 2019-11-05
   lastCommit: 2026-07-19
   lastRelease: 2024-12-15
 popularity:
-  star: 2943
+  star: 2944
   watcher: 19
   fork: 93
   release: 33
@@ -82,7 +82,7 @@ total:
   commit: 1684
 ---
 path: /home/runner/.x-repo/github.com/orhun/kmon
-collectedAt: 2026-09-07T05:35:19Z
+collectedAt: 2026-09-07T18:53:16Z
 loc:
   Rust:
     code: 2510
@@ -244,7 +244,7 @@ checks:
       - 'Warn: 0 commits out of 14 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:35:26+00:00
+  collectedAt: 2026-09-07T18:53:17+00:00
   platform:
     darwin/arm64:
       name:  null
