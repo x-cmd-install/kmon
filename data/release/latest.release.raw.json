@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 695226,
       "digest": null,
-      "download_count": 890,
+      "download_count": 900,
       "created_at": "2024-12-15T17:14:31Z",
       "updated_at": "2024-12-15T17:14:31Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 173,
       "digest": null,
-      "download_count": 31,
+      "download_count": 33,
       "created_at": "2024-12-15T17:14:29Z",
       "updated_at": "2024-12-15T17:14:29Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-gnu.tar.gz.sha512"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 310,
       "digest": null,
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2024-12-15T17:14:29Z",
       "updated_at": "2024-12-15T17:14:29Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-gnu.tar.gz.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 765185,
       "digest": null,
-      "download_count": 1620,
+      "download_count": 1622,
       "created_at": "2024-12-15T17:14:30Z",
       "updated_at": "2024-12-15T17:14:30Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 174,
       "digest": null,
-      "download_count": 56,
+      "download_count": 58,
       "created_at": "2024-12-15T17:14:30Z",
       "updated_at": "2024-12-15T17:14:30Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-musl.tar.gz.sha512"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 310,
       "digest": null,
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2024-12-15T17:14:29Z",
       "updated_at": "2024-12-15T17:14:30Z",
       "browser_download_url": "https://github.com/orhun/kmon/releases/download/v1.7.1/kmon-1.7.1-x86_64-unknown-linux-musl.tar.gz.sig"
